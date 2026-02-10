@@ -19,9 +19,9 @@ Web Developer | AI & Automation Enthusiast | Full-Stack Explorer
 ---
 
 ### 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/AhmedRaza)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/AhmedRaza)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/AhmedRaza)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)][(https://linkedin.com/in/AhmedRaza)](https://www.linkedin.com/in/ahmed-raza-05b89a30a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2?style=for-the-badge&logo=Facebook&logoColor=white)]([https://facebook.com/AhmedRaza](https://www.facebook.com/share/1AcnwufZ3u/))
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=Instagram&logoColor=white)][(https://instagram.com/AhmedRaza)](https://www.instagram.com/razamughal1116?igsh=dzdnMmsxeTlheXdx)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@AhmedRaza)
 [![Mastodon](https://img.shields.io/badge/Mastodon-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@AhmedRaza)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrahmedrazabaig@gmail.com)
